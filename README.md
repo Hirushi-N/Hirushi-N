@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hirushi  
+# Hi there 👋, I'm Hirushika Amarasinghe  
 
 🎓 Undergraduate at **SLIIT**  
 💻 Passionate **Web Developer** | Focused on **Java Development**  
